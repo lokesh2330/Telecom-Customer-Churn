@@ -1,0 +1,44 @@
+Column,Category,Encoded_Value
+gender,Female,0
+gender,Male,1
+Partner,No,0
+Partner,Yes,1
+Dependents,No,0
+Dependents,Yes,1
+PhoneService,No,0
+PhoneService,Yes,1
+MultipleLines,No,0
+MultipleLines,No phone service,1
+MultipleLines,Yes,2
+InternetService,DSL,0
+InternetService,Fiber optic,1
+InternetService,No,2
+OnlineSecurity,No,0
+OnlineSecurity,No internet service,1
+OnlineSecurity,Yes,2
+OnlineBackup,No,0
+OnlineBackup,No internet service,1
+OnlineBackup,Yes,2
+DeviceProtection,No,0
+DeviceProtection,No internet service,1
+DeviceProtection,Yes,2
+TechSupport,No,0
+TechSupport,No internet service,1
+TechSupport,Yes,2
+StreamingTV,No,0
+StreamingTV,No internet service,1
+StreamingTV,Yes,2
+StreamingMovies,No,0
+StreamingMovies,No internet service,1
+StreamingMovies,Yes,2
+Contract,Month-to-month,0
+Contract,One year,1
+Contract,Two year,2
+PaperlessBilling,No,0
+PaperlessBilling,Yes,1
+PaymentMethod,Bank transfer (automatic),0
+PaymentMethod,Credit card (automatic),1
+PaymentMethod,Electronic check,2
+PaymentMethod,Mailed check,3
+Churn,No,0
+Churn,Yes,1
