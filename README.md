@@ -10,4 +10,4 @@ PROJECT NAME:TELECOM CUSTOMER CHURN
 
 PROJECT SCOPE:
     This project focuses on predicting customer churn in a telecom company using historical customer data. It includes data preprocessing, exploratory data analysis, feature selection, machine learning model development, model evaluation, and churn prediction. The project helps identify customers who are likely to leave the service, enabling better customer retention strategies.
->>>>>>> a48400cbd249e9d6a63934e3075118cb612a5557
+
